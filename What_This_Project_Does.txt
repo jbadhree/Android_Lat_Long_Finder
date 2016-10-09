@@ -1,0 +1,2 @@
+This Code Prints the Latitude and Longitude of the Phone
+This can be inputted to the Offers Quest to get the current location of the user

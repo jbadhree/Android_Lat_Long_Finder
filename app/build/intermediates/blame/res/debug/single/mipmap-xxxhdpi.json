@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/badhree/AndroidStudioProjects/SampleMap/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Users/badhree/AndroidStudioProjects/SampleMap/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/badhree/AndroidStudioProjects/GetLocation_OpenQuest/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Users/badhree/AndroidStudioProjects/GetLocation_OpenQuest/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]
